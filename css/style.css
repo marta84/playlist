@@ -1,3 +1,7 @@
 .song-image {
 	width: 12rem;
 }
+#songInfo{
+    border: 2px solid red;
+    Height: 20px;
+}
